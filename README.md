@@ -5,7 +5,7 @@ A modern, feature-rich music player built with PyQt6 and VLC, supporting MP3/FLA
 ---
 
 
-[ To run the app: First go through the requirement part then download the testing folder and run the muuusic.py in your local system ]
+[ To run the app: First go through the requirement part then download the "Testing Files" folder and run the muuusic.py in your local system ]
 
 [ All the files required to modify the app further resides inside the "Testing Files" folder ]
 
