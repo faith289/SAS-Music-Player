@@ -5,10 +5,9 @@ A modern, feature-rich music player built with PyQt6 and VLC, supporting MP3/FLA
 ---
 
 
+[ To run the app: First go through the requirement part then download the "Testing Files" folder and run the muuusic.py in your local system ]
 
 [ All the files required to modify the app further resides inside the "Testing Files" folder ]
-
-
 
 
 
@@ -21,6 +20,31 @@ A modern, feature-rich music player built with PyQt6 and VLC, supporting MP3/FLA
 - Sleep timer
 - System tray integration (Windows)
 - Modern, animated UI
+
+---
+
+## Screenshots
+
+### Default State
+![Default State](./screenshots/default state.png)
+
+### After Loading Songs
+![State After Loading Songs](./screenshots/state after loading songs.png)
+
+### Mini Player Mode
+![Mini Player Mode](./screenshots/Miniplayer mode.png)
+
+### Sleep Timer Button (Inactive)
+![Sleep Timer Button State 1](./screenshots/sleep button state 1.png)
+
+### Sleep Timer Button (Active)
+![Sleep Timer Button State 2](./screenshots/sleep button state 2.png)
+
+### Dark/Night Mode
+![Dark Brightness](./screenshots/dark brightness.png)
+
+### Light Mode
+![Light Brightness](./screenshots/light brightness.png)
 
 ---
 
