@@ -26,25 +26,25 @@ A modern, feature-rich music player built with PyQt6 and VLC, supporting MP3/FLA
 ## Screenshots
 
 ### Default State
-![Default State](./screenshots/default state.png)
+![Default State](./Screenshots/default state.png)
 
 ### After Loading Songs
-![State After Loading Songs](./screenshots/state after loading songs.png)
+![State After Loading Songs](./Screenshots/state after loading songs.png)
 
 ### Mini Player Mode
-![Mini Player Mode](./screenshots/Miniplayer mode.png)
+![Mini Player Mode](./Screenshots/Miniplayer mode.png)
 
 ### Sleep Timer Button (Inactive)
-![Sleep Timer Button State 1](./screenshots/sleep button state 1.png)
+![Sleep Timer Button State 1](./Screenshots/sleep button state 1.png)
 
 ### Sleep Timer Button (Active)
-![Sleep Timer Button State 2](./screenshots/sleep button state 2.png)
+![Sleep Timer Button State 2](./Screenshots/sleep button state 2.png)
 
 ### Dark/Night Mode
-![Dark Brightness](./screenshots/dark brightness.png)
+![Dark Brightness](./Screenshots/dark brightness.png)
 
 ### Light Mode
-![Light Brightness](./screenshots/light brightness.png)
+![Light Brightness](./Screenshots/light brightness.png)
 
 ---
 
