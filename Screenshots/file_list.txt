@@ -1,0 +1,8 @@
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\dark_brightness.png
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\default_state.png
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\file_list.txt
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\light_brightness.png
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\Miniplayer_mode.png
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\sleep_button_state_1.png
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\sleep_button_state_2.png
+C:\Users\aRkO\Documents\GitHub\SAS-Music-Player\Screenshots\state_after_loading_songs.png
