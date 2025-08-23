@@ -57,11 +57,8 @@ A modern, feature-rich music player built with Python, PyQt6, and VLC, offering 
 ### Color Mode Settings
 ![Default State](Screenshots/colour_mode.png)
 
-### Sleep Timer Button (Inactive)
-![Sleep Timer Button State 1](Screenshots/sleep_button_state_1.png)
-
-### Sleep Timer Button (Active)
-![Sleep Timer Button State 2](Screenshots/sleep_button_state_2.png)
+### Sleep Timer Dialogs
+![Sleep Timer Button State 1](Screenshots/Sleep_timer_dialogs.gif)
 
 ### Dark/Light Mode
 ![Dark Brightness](Screenshots/Light_or_Dark_mode.gif)
