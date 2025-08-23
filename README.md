@@ -48,8 +48,8 @@ A modern, feature-rich music player built with Python, PyQt6, and VLC, offering 
 ### Default State
 ![Default State](Screenshots/default_state.png)
 
-### After Loading Songs
-![State After Loading Songs](Screenshots/state_after_loading_songs.png)
+### Playback State
+![State After Loading Songs](Screenshots/Playback_interface.gif)
 
 ### Mini Player Mode
 ![Mini Player Mode](Screenshots/Miniplayer_mode.png)
@@ -60,11 +60,8 @@ A modern, feature-rich music player built with Python, PyQt6, and VLC, offering 
 ### Sleep Timer Button (Active)
 ![Sleep Timer Button State 2](Screenshots/sleep_button_state_2.png)
 
-### Dark/Night Mode
-![Dark Brightness](Screenshots/dark_brightness.png)
-
-### Light Mode
-![Light Brightness](Screenshots/light_brightness.png)
+### Dark/Light Mode
+![Dark Brightness](Screenshots/Light_or_Dark_mode.gif)
 
 
 
