@@ -54,6 +54,9 @@ A modern, feature-rich music player built with Python, PyQt6, and VLC, offering 
 ### Mini Player Mode
 ![Mini Player Mode](Screenshots/Miniplayer_mode.png)
 
+### Color Mode Settings
+![Default State](Screenshots/colour_mode.png)
+
 ### Sleep Timer Button (Inactive)
 ![Sleep Timer Button State 1](Screenshots/sleep_button_state_1.png)
 
